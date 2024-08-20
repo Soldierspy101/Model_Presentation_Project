@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/ethan/Downloads/Major Project/Proj_Draft2;C:/Users/ethan/Downloads/Major Project/Project_Draft;C:/Users/ethan/Downloads/Major Project/Big;C:/Users/ethan/Downloads/Major Project/More;C:/Users/ethan/Downloads/Major Project/MProj;C:/Users/ethan/Downloads/Major Project;C:/Users/ethan/Downloads/Major Project/App8;C:/Users/ethan/Downloads/Major Project/App7;C:/Users/ethan/Downloads/Major Project/App5;C:/Users/ethan/Downloads/Major Project/App4\"}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "designGroups": [
+        {
+            "groupName": "Design Group 1",
+            "compartment": [
+                {
+                    "targetRendererPath": "AddModelHere/M60ForScriptTest(Clone)/MainController_MetaScrub60/BodyChassis_Whole",
+                    "materialPaths": [
+                        "Assets/M60ForScriptTest(Clone)_Textures/Chassis.mat"
+                    ]
+                }
+            ],
+            "foldout": true
+        },
+        {
+            "groupName": "Design Group 2",
+            "compartment": [
+                {
+                    "targetRendererPath": "AddModelHere/M60ForScriptTest(Clone)/MainController_MetaScrub60/BodyChassis_Whole",
+                    "materialPaths": [
+                        "Assets/M60ForScriptTest(Clone)_Textures/Blue.mat"
+                    ]
+                }
+            ],
+            "foldout": true
+        },
+        {
+            "groupName": "Design Group 3",
+            "compartment": [
+                {
+                    "targetRendererPath": "AddModelHere/M60ForScriptTest(Clone)/MainController_MetaScrub60/BodyChassis_Whole",
+                    "materialPaths": [
+                        "Assets/M60ForScriptTest(Clone)_Textures/Gray.mat"
+                    ]
+                }
+            ],
+            "foldout": true
+        }
+    ]
+}

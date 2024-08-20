@@ -1,0 +1,66 @@
+{
+    "annotations": [
+        {
+            "index": 0,
+            "ownText": "Chassis",
+            "offset": {
+                "x": 0.0,
+                "y": 1.399999976158142,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "rendererInstanceID": 30394,
+            "rendererPath": "/AddModelHere/M60ForScriptTest(Clone)/MainController_MetaScrub60/BodyChassis_Whole",
+            "targetRenderer": {
+                "instanceID": 30372
+            },
+            "uniqueID": "93e1353c-4fdc-438e-a9de-d81d35f779f0",
+            "newMat": {
+                "instanceID": 29118
+            },
+            "text": {
+                "instanceID": 31190
+            },
+            "position": {
+                "x": 0.000003119930624961853,
+                "y": 2.5510737895965578,
+                "z": -0.006626518443226814
+            }
+        },
+        {
+            "index": 1,
+            "ownText": "Bumper",
+            "offset": {
+                "x": 0.0,
+                "y": 0.6000000238418579,
+                "z": 0.699999988079071
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "rendererInstanceID": 30460,
+            "rendererPath": "/AddModelHere/M60ForScriptTest(Clone)/MainController_MetaScrub60/Controller_FrontBumper/BodyChassis_Bumper",
+            "targetRenderer": {
+                "instanceID": 30438
+            },
+            "uniqueID": "fe9853ab-4a3c-4ee4-9ce4-17705f9d7b89",
+            "newMat": {
+                "instanceID": 28820
+            },
+            "text": {
+                "instanceID": 30660
+            },
+            "position": {
+                "x": 0.000005203764885663986,
+                "y": 1.9267464876174927,
+                "z": 0.9398493766784668
+            }
+        }
+    ]
+}
